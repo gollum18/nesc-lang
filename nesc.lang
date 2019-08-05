@@ -23,7 +23,7 @@
 -->
 <language id="nesc" name="Nesc" version="2.0" _section="Source">
   <metadata>
-    <property name="mimetypes">text/x-c;text/x-csrc;image/x-xpixmap</property>
+    <property name="mimetypes">text/x-nesc</property>
     <property name="globs">*.nesc;*.nc</property>
     <property name="line-comment-start">//</property>
     <property name="block-comment-start">/*</property>
